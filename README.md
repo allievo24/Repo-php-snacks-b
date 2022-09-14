@@ -1,2 +1,1 @@
-# 
-php-snacks-b
+# php-snacks-b
