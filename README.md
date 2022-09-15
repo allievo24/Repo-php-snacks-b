@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repo-php-snacks-b
 
 ## Snack 1-2
@@ -17,3 +18,4 @@ Ad ogni refresh della pagina visualizzare una pubblicità a schermo, tenendo con
 
 
 
+=======
